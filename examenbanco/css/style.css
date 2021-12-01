@@ -1,0 +1,26 @@
+body{
+    margin: 40px;
+}
+.container{
+    display:block;
+    background-color: aliceblue;
+    align-items: center;
+    border-radius: 10px;
+    
+    
+}
+.margen-B{
+    margin: 5px;
+    border-radius: 5px;
+}
+.table{
+    margin-top: 1%;
+    border-radius: 10px;
+    vertical-align: center;
+}
+.container-sm{
+    display:block;
+    align-items: center;
+    border-radius: 10px;
+    text-align: center;
+}
